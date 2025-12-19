@@ -1,0 +1,108 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+.box {
+  border: 1px solid red;
+  padding: 10px;
+}
+
+.name,
+.email {
+  display: block;
+  width: 217px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-bottom: 7px;
+}
+
+.thanks {
+  display: inline-block;
+  width: 220px;
+  vertical-align: middle;
+}
+
+.googleLogo {
+  display: block;
+  width: 300px;
+  margin-left: 130px;
+}
+
+.searchGoogleInput {
+  font-size: 16px;
+  width: 500px;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  box-shadow: 0 1px 5px rgba(184, 71, 71, 0.25);
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.box1 {
+  border: 1px solid red;
+  padding: 10px;
+  width: 250px;
+}
+.firstName,
+.lastName {
+  display: inline-block;
+  width: 100px;
+  margin-bottom: 7px;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.email {
+  width: 217px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-bottom: 7px;
+}
+.signUp {
+  color: white;
+  background-color: rgb(61, 105, 249);
+  border: none;
+  font-size: large;
+  font-weight: bold;
+  padding: 7px;
+  width: 230px;
+  border-radius: 5px;
+}
+
+.pickupLocation,
+.destination {
+  width: 217px;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 7px;
+}
+
+.request {
+  color: white;
+  background-color: black;
+  border: none;
+  font-size: small;
+  font-weight: normal;
+  padding: 7px;
+  width: 100px;
+}
+.ScheduleForLater {
+  color: black;
+  background-color: rgb(206, 206, 206);
+  border: none;
+  font-size: small;
+  font-weight: normal;
+  padding: 7px;
+  width: 120px;
+}
